@@ -1,0 +1,1 @@
+Please use only with bartik theme.
