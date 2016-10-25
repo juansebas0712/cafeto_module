@@ -1,0 +1,3 @@
+core = "7.x"
+description = "Modulo para cambiar el aspecto del sitio."
+name = "Cafeto Style"
